@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/acosma28/React_Counter_and_ProduceSearch/static/css/main.f855e6bc.css",
+    "main.js": "/acosma28/React_Counter_and_ProduceSearch/static/js/main.57ac680c.js",
+    "static/js/787.d4aba7ab.chunk.js": "/acosma28/React_Counter_and_ProduceSearch/static/js/787.d4aba7ab.chunk.js",
+    "index.html": "/acosma28/React_Counter_and_ProduceSearch/index.html",
+    "main.f855e6bc.css.map": "/acosma28/React_Counter_and_ProduceSearch/static/css/main.f855e6bc.css.map",
+    "main.57ac680c.js.map": "/acosma28/React_Counter_and_ProduceSearch/static/js/main.57ac680c.js.map",
+    "787.d4aba7ab.chunk.js.map": "/acosma28/React_Counter_and_ProduceSearch/static/js/787.d4aba7ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.57ac680c.js"
+  ]
+}
